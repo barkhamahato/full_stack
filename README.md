@@ -17,5 +17,6 @@ typing_extensions==4.12.2
 urllib3==2.2.2
 Werkzeug==3.0.3
 
-To activate virtual environment : .venv\scripts\activate
+-To activate virtual environment : .venv\scripts\activate then,
+
 RUN : python app.py
